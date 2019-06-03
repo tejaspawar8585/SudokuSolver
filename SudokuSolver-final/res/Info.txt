@@ -1,0 +1,68 @@
+
+****Sudoku rules*****
+
+
+**Classic Sudoku
+
+The Classic Sudoku is a number placing puzzle based on a 9x9 grid
+with several given numbers. The object is to place the numbers 1 to 9 
+in the empty squares so that each row, each column and each 3x3 
+box contains the same number only once.
+
+**Diagonal Sudoku
+
+Each puzzle consists of a 9x9 grid containing given clues in various places. The object is to fill all empty squares so that the numbers 1 to 9 appear exactly once in each row, column, diagonal and 3x3 box. In the case of Diagonal Sudoku with Odd or Diagonal Sudoku with Even, the rules should comply with OddEven Sudoku as well.
+
+
+This Project is Created By .....
+ 
+
+    Year : Third Year;   
+    Batch: B1;
+    
+   
+     name                   Roll No.
+
+
+
+    Tejas Pawar                 24
+
+    Aditya Pingat               26
+ 
+   Hrishikesh Malpure          1
+
+    chirag Maniyar              3
+
+    Yogesh Mantri               4
+
+
+ 
+
+
+Under The Guidance of Fatima Inamdar Mam;
+
+
++88_
+_+880_
+_++88_
+_++88_
+__+880_________________________++_
+__+888________________________+88_
+__++880______________________+88_
+__++888_____+++88__________+++8_
+__++8888__+++8880++88____+++88_
+__+++8888+++8880++8888__++888_
+___++888++8888+++888888++888_
+___++88++8888++8888888++888_
+___++++++888888888888888888_
+____++++++88888888888888888_
+____++++++++000888888888888_
+_____+++++++000088888888888_
+______+++++++00088888888888_
+_______+++++++088888888888_
+_______+++++++088888888888_
+________+++++++8888888888_
+________+++++++0088888888_
+________++++++0088888888_
+________+++++0008888888_
+________#############_
